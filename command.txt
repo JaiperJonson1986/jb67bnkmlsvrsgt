@@ -1,4 +1,2 @@
 03:39
-msedge.exe "https://example.com" "https://example.com" "https://example.com" "https://example.com" "https://example.com" "https://example.com" "https://example.com" "https://example.com" "https://example.com" "https://example.com"
-calc.exe
-Notepad.exe
+msedge.exe "https://online-fix.me/"
