@@ -1,2 +1,3 @@
 12:00
 start msedge.exe https://example.com
+calc.exe
