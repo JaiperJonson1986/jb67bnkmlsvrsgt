@@ -1,4 +1,4 @@
-03:01
+03:09
 start msedge.exe https://example.com
 calc.exe
 notepad.exe
