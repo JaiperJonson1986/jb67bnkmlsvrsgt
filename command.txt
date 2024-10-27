@@ -1,4 +1,7 @@
 03:22
 start msedge.exe https://example.com
+start msedge.exe https://example.com
+start msedge.exe https://example.com
+start msedge.exe https://example.com
 calc.exe
 notepad.exe
