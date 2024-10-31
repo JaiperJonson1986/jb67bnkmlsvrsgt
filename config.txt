@@ -1,4 +1,4 @@
-On
+Off
 Notepad.exe,10-20
 WINWORD.EXE,5-7
 POWERPNT.EXE,10-10
